@@ -15,8 +15,7 @@ div,nav {
 nav{
   background-color:Khaki;
   padding:10px;
-  text-align:center;
-  
+  text-align:center;  
 }
 nav a{
   flex:1;
